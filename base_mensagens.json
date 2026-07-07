@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 09:00:00",
+        "text": "Ola pessoal! Tudo bem?"
+    },
+    {
+        "id": 2,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 09:15:00",
+        "text": "Que horas é a reunião de hoje?"
+    },
+    {
+        "id": 3,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 09:30:00",
+        "text": "Não vou poder comparecer, me avisem o que decidirem."
+    },
+    {
+        "id": 4,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 09:45:00",
+        "text": "Alguém viu meu e-mail de ontem?"
+    },
+    {
+        "id": 5,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 10:00:00",
+        "text": "Sim, já respondi! Pode checar."
+    },
+    {
+        "id": 6,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 10:15:00",
+        "text": "Perfeito, muito obrigado pela atenção!"
+    },
+    {
+        "id": 7,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 10:30:00",
+        "text": "Vamos marcar um almoço na sexta-feira?"
+    },
+    {
+        "id": 8,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 10:45:00",
+        "text": "Eu topo! Que restaurante?"
+    },
+    {
+        "id": 9,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 11:00:00",
+        "text": "Pode ser naquele restaurante italiano novo."
+    },
+    {
+        "id": 10,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 11:15:00",
+        "text": "Fechado! Às 12h então."
+    },
+    {
+        "id": 11,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 11:30:00",
+        "text": "Bom dia a todos do grupo!"
+    },
+    {
+        "id": 12,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 11:45:00",
+        "text": "Alguém tem o contato do suporte técnico?"
+    },
+    {
+        "id": 13,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 12:00:00",
+        "text": "Vou te mandar no privado agora."
+    },
+    {
+        "id": 14,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 12:15:00",
+        "text": "Valeu, muito obrigado!"
+    },
+    {
+        "id": 15,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 12:30:00",
+        "text": "Pessoal, o relatório está pronto para revisão."
+    },
+    {
+        "id": 16,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 12:45:00",
+        "text": "Ótimo trabalho! Vou dar uma olhada."
+    },
+    {
+        "id": 17,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 13:00:00",
+        "text": "Reunião adiada para amanhã às 15h."
+    },
+    {
+        "id": 18,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 13:15:00",
+        "text": "Ok, anotado. Obrigado pelo aviso!"
+    },
+    {
+        "id": 19,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 13:30:00",
+        "text": "Alguém pode me mandar o link da apresentação?"
+    },
+    {
+        "id": 20,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 13:45:00",
+        "text": "Claro, segue o link no privado."
+    },
+    {
+        "id": 21,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 14:00:00",
+        "text": "Confirmado para sexta-feira."
+    },
+    {
+        "id": 22,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 14:15:00",
+        "text": "Não esqueçam da entrega do projeto!"
+    },
+    {
+        "id": 23,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 14:30:00",
+        "text": "Já está quase pronto, só falta a revisão final."
+    },
+    {
+        "id": 24,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 14:45:00",
+        "text": "Precisamos conversar sobre o orçamento."
+    },
+    {
+        "id": 25,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 15:00:00",
+        "text": "Concordo, vamos agendar uma call."
+    },
+    {
+        "id": 26,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 15:15:00",
+        "text": "Boa tarde! Alguém online?"
+    },
+    {
+        "id": 27,
+        "sender": "Person3",
+        "timestamp": "2026-04-06 15:30:00",
+        "text": "Aqui estou! O que precisa?"
+    },
+    {
+        "id": 28,
+        "sender": "Person4",
+        "timestamp": "2026-04-06 15:45:00",
+        "text": "Pode me ligar quando puder?"
+    },
+    {
+        "id": 29,
+        "sender": "Person1",
+        "timestamp": "2026-04-06 16:00:00",
+        "text": "Claro, te ligo em 10 minutos."
+    },
+    {
+        "id": 30,
+        "sender": "Person2",
+        "timestamp": "2026-04-06 16:15:00",
+        "text": "Obrigado a todos pela colaboração!"
+    }
+]
